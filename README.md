@@ -4,7 +4,7 @@
 
 
 ## Introduction 🚀
-Hello! I'm Hafeezur Rahman, a passionate developer with a keen interest in technology and innovation. I enjoy building software solutions that make a difference.
+Hey there! I'm Hafeezur Rahman, a passionate developer with a keen interest in technology and innovation. I enjoy building software solutions that make a difference.
 
 ## Skills  🛠️
 - Programming Languages: Python, JavaScript, C++
