@@ -1,16 +1,31 @@
-## Hi there 👋
+About Me
+Introduction 🚀
+Hello! I'm Hafeezur Rahman, a passionate developer with a keen interest in technology and innovation. I enjoy building software solutions that make a difference.
 
-<!--
-**HafeezFateh/HafeezFateh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills 🛠️
+Programming Languages: Java, Python, JavaScript.
+Markup Language: HTML.
+Styling Languages: CSS, SASS.
+Frameworks & Libraries: Bootstrap, Node.js, express.js, React.js.
+Database Management: PostgreSQL, MongoDB, MySQL
+Other: Git & GitHub, Wordpress.
+Projects 💻
+Project 1: [CAHCET Website] - Made the official website of C. Abdul Hakeem college of Engineering and Technology
+Project 2: [StuFoTech] - A Students information tracking web application which keep records of student's necessary data
+Experience 🏢
+GreatXt - Software Engineer (2024 - Present)
+Education 🎓
+B.E. (Computer Science), C. Abdul Hakeem college of Engineering and Technology (2020 - 2024)
+Contact 📬
+Email: hafeeezofficial08@gmail.com
+GitHub: https://github.com/your-username](https://github.com/HafeezFateh
+LinkedIn: https://linkedin.com/in/Hafeezur-Rahman)
+Hobbies & Interests 🎨
+💻 Coding
+📚 Reading
+☪️ Theology
+🥊 Combat Sports
+✈️ Traveling
+Acknowledgements 🤝
+Special thanks to my mentors, peers, and the open-source community for continuous learning and support.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
