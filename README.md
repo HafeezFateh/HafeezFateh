@@ -28,8 +28,8 @@ Hello! I'm Hafeezur Rahman, a passionate developer with a keen interest in techn
 
 ## Contact 📬
 - **Email:** hafeezofficial08@gmail.com
-- **GitHub:** [Your Profile]([https://github.com/your-username](https://github.com/HafeezFateh))
-- **LinkedIn:** [Your Profile]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%B3%F0%9D%90%AE%F0%9D%90%AB-%F0%9D%90%91%F0%9D%90%9A%F0%9D%90%A1%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%A7-18843b1b2/))
+- **GitHub:** https://github.com/your-username](https://github.com/HafeezFateh
+- **LinkedIn:** https://linkedin.com/in/your-username](https://www.linkedin.com/in/%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%B3%F0%9D%90%AE%F0%9D%90%AB-%F0%9D%90%91%F0%9D%90%9A%F0%9D%90%A1%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%A7-18843b1b2/
 
 ## Hobbies & Interests 🕊️
 - 💻 Coding
