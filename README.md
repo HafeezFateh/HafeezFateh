@@ -7,11 +7,11 @@
 Hey there! I'm Hafeezur Rahman, a passionate developer with a keen interest in technology and innovation. I enjoy building software solutions that make a difference.
 
 ## Skills  🛠️
-- Programming Languages: Python, JavaScript, C++
+- Programming Languages: Java, Python, JavaScript.
 - Markup Language: HTML.
 - Styling Languages: CSS, SASS.
-- Frameworks & Libraries: React, Node.js, Django
-- Database Management: MongoDB, MySQL
+- Frameworks & Libraries: React, Node.js, express.js
+- Database Management: PostgreSQL, MongoDB, MySQL
 - Other: Git & GitHub, Wordpress, Figma
 
 ## Projects 💻
